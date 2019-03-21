@@ -47,3 +47,7 @@ in the first iteration when i = 1,
 ```
 This way **at any time in insertion-sort, all the elemets(sub array) to the left of the element to be sorted (placed at its right position in the given array) are already sorted.**
 
+## Analysis of algorithm
+#### Time complexity:
+
+#### Space complexity:
