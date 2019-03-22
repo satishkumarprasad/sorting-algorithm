@@ -1,6 +1,6 @@
-package com.satishkumarprasad.algo.insertionsort;
+package com.satishkumarprasad.algo.sortingalgos;
 
-public class InsertionSort implements Sort {
+public class InsertionSort implements SortingAlgorithm {
 	
 	// 8 2 5 3 0 7 -> 6
 	@Override
