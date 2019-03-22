@@ -45,7 +45,7 @@ in the first iteration when i = 1,
   
   So, by the first iteration of i i.e. for index 1, the sub array [2, 8] of index 0 and 1 gets sorted and likewise in all successive iterations all elements get sorted. 
 ```
-This way **at any time in insertion-sort, all the elemets(sub array) to the left of the element to be sorted (placed at its right position in the given array) are already sorted.**
+This way **at any time in insertion-sort, all the elemets(sub array) to the left of the element to be sorted (or to be placed at its right position in the given array) are already sorted.**
 
 ## Analysis of algorithm
 #### Time complexity:
